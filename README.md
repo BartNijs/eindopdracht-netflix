@@ -4,4 +4,4 @@
 *gebruikers instructies niet van toepassing*
 **dit is mijn keuze**
 [netflix](https://www.netflix.be)
-![logo netflix](./images/logo.png)
+
